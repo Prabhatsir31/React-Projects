@@ -6,29 +6,7 @@
 </h1>
   <br/>
 
-<div align="center">
-  <img
-    alt="GitHub repo size"
-    src="https://img.shields.io/github/repo-size/purnasth/vite-react-tailwind-starter?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
-  />
-  <img
-    alt="GitHub forks"
-    src="https://img.shields.io/github/forks/purnasth/vite-react-tailwind-starter?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
-  />
-  <img
-    alt="GitHub Repo stars"
-    src="https://img.shields.io/github/stars/purnasth/vite-react-tailwind-starter?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
-  />
-  <img
-    alt="Last commit"
-    src="https://img.shields.io/github/last-commit/purnasth/vite-react-tailwind-starter?color=9f4bff&logo=git&logoColor&style=for-the-badge"
-  />
-  <img
-    alt="Commit activity"
-    src="https://img.shields.io/github/commit-activity/m/purnasth/vite-react-tailwind-starter?color=9f4bff&logo=git&logoColor&style=for-the-badge"
-  />
-</div>
-<br />
+
 
 <p align="center">This template provides a stater setup to get React working in Vite with TailwindCSS installed.</p>
 
